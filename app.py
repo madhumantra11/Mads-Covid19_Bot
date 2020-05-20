@@ -2,6 +2,7 @@ import json
 import os
 from flask import Flask, request, make_response
 from flask_cors import cross_origin
+from bs4 import BeautifulSoup
 from logger import logger
 from DataRequests import MakeApiRequests
 from SendEmail import sendEmail
@@ -123,12 +124,6 @@ def processRequest(req):
                           "\n" + "Last Checked :" + str(fulfillmentText.__getitem__('lastChecked') ) + "\n" + "Last Reported :" + str( fulfillmentText.__getitem__( 'lastReported' ) ) + \
                           "\n\n*******END********* \n "
         print(webhookresponse)
-        email_sender = EmailSender()
-        template = templatereader.TemplateReader()
-        # email_message = template.read_course_template()
-        email_message = template.read_course_template() + webhookresponse
-        email_sender.sendEmail( cust_email, email_message )
-        fulfillmentText = "We have sent the Covid19 related information on your email address.Thanks for getting in touch with us."
         log.write_log(sessionID, "Worldwide Cases", webhookresponse, intent)
         return {
 
