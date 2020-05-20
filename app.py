@@ -75,7 +75,7 @@ def processRequest(req):
         ##fulfillmentText = "We have sent the Covid19 related information on your email address.Thanks for getting in touch with us."
         log.write_log(sessionID, "Current Cases", webhookresponse, intent)
         return {
-            "fulfillmentTextMessages":[
+            "fulfillmentText":[
                 {
                     "text":{
                         "text":[
@@ -126,7 +126,7 @@ def processRequest(req):
         log.write_log(sessionID, "Worldwide Cases", webhookresponse, intent)
         return {
 
-            "fulfillmentTextMessages":[
+            "fulfillmentText":[
                 {
                     "text":{
                         "text":[
@@ -153,7 +153,7 @@ def processRequest(req):
 
         log.write_log( sessionID, "COVID Headlines", webhookresponse, intent )
         return {
-            "fulfillmentTextMessages": [
+            "fulfillmentText": [
                 {
                     "text": {
                         "text": [
@@ -200,7 +200,7 @@ def processRequest(req):
         print( "***Statewise Cases*** \n\n" + webhookresponse3 + "\n\n*******END********* \n" )
         log.write_log( sessionID, "Indian State Cases", webhookresponse1, intent)
         return {
-         "fulfillmentTextMessages":[
+         "fulfillmentText":[
                 {
                     "text":{
                         "text":[
@@ -237,7 +237,7 @@ def processRequest(req):
             print( webhookresponse )
         log.write_log( sessionID, "HelplineNumbers", webhookresponse, intent )
         return {
-            "fulfillmentTextMessages": [
+            "fulfillmentText": [
                 {
                     "text": {
                         "text": [
