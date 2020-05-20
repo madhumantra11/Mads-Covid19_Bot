@@ -1,0 +1,65 @@
+2020-05-19/15:31:45		Current Cases		***Covid Report*** 
+
+ New cases :+8
+ Active cases : 555
+ Critical cases : 11
+ Recovered cases : 6413
+ Total cases : 7068
+ New Deaths : +1
+ Total Deaths : 100
+ Total Test Done : 1085870
+
+*******END********* 
+ 		country_selection
+2020-05-19/15:33:24		Current Cases		***Covid Report*** 
+
+ New cases :+8
+ Active cases : 555
+ Critical cases : 11
+ Recovered cases : 6413
+ Total cases : 7068
+ New Deaths : +1
+ Total Deaths : 100
+ Total Test Done : 1085870
+
+*******END********* 
+ 		country_selection
+2020-05-19/15:35:04		Current Cases		***Covid Report*** 
+
+ New cases :+8
+ Active cases : 555
+ Critical cases : 11
+ Recovered cases : 6413
+ Total cases : 7068
+ New Deaths : +1
+ Total Deaths : 100
+ Total Test Done : 1085870
+
+*******END********* 
+ 		country_selection
+2020-05-19/15:38:15		Current Cases		***Covid Report*** 
+
+ New cases :+8
+ Active cases : 555
+ Critical cases : 11
+ Recovered cases : 6413
+ Total cases : 7068
+ New Deaths : +1
+ Total Deaths : 100
+ Total Test Done : 1085870
+
+*******END********* 
+ 		country_selection
+2020-05-20/03:44:30		Current Cases		***Covid Report*** 
+
+ New cases :+11
+ Active cases : 537
+ Critical cases : 9
+ Recovered cases : 6442
+ Total cases : 7079
+ New Deaths : None
+ Total Deaths : 100
+ Total Test Done : 1108311
+
+*******END********* 
+ 		country_selection

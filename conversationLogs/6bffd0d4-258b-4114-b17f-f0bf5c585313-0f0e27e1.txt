@@ -1,0 +1,1474 @@
+2020-05-19/09:13:19		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/09:15:36		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/09:15:59		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:20:07		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:22:45		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:23:39		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:51:24		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:56:55		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:57:44		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/10:59:32		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/11:06:43		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/11:11:43		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/11:12:29		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/11:19:01		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/11:22:57		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+******************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+******************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+******************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+******************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+******************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+******************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+******************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+******************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+******************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+******************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*********		indian_states
+2020-05-19/11:37:38		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+****************************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+****************************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+****************************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+****************************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+****************************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+****************************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+****************************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+****************************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+****************************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+****************************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+*******************		indian_states
+2020-05-19/11:39:30		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+********************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+********************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+********************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+********************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+********************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+********************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+********************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+********************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+********************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+********************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+***********		indian_states
+2020-05-19/11:40:05		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+********************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+********************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+********************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+********************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+********************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+********************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+********************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+********************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+********************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+********************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+***********		indian_states
+2020-05-19/11:40:28		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+********************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+********************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+********************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+********************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+********************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+********************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+********************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+********************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+********************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+********************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+***********		indian_states
+2020-05-19/13:11:19		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+********************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+********************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+********************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+********************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+********************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+********************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+********************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+********************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+********************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+********************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+***********		indian_states
+2020-05-19/13:35:42		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+********************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+********************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+********************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+********************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+********************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+********************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+********************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+********************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+********************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+********************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+***********		indian_states
+2020-05-19/13:55:36		Indian State Cases		*********
+ State :Andaman and Nicobar Islands
+ Confirmed cases : 33
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 33
+********************
+ State :Andhra Pradesh
+ Confirmed cases : 2407
+ Death cases : 50
+ Active cases : 901
+ Recovered cases : 1456
+********************
+ State :Arunachal Pradesh
+ Confirmed cases : 1
+ Death cases : 0
+ Active cases : 0
+ Recovered cases : 1
+********************
+ State :Assam
+ Confirmed cases : 101
+ Death cases : 2
+ Active cases : 58
+ Recovered cases : 41
+********************
+ State :Bihar
+ Confirmed cases : 1262
+ Death cases : 8
+ Active cases : 779
+ Recovered cases : 475
+********************
+ State :Chandigarh
+ Confirmed cases : 191
+ Death cases : 3
+ Active cases : 137
+ Recovered cases : 51
+********************
+ State :Chhattisgarh
+ Confirmed cases : 86
+ Death cases : 0
+ Active cases : 27
+ Recovered cases : 59
+********************
+ State :Delhi
+ Confirmed cases : 10054
+ Death cases : 160
+ Active cases : 5409
+ Recovered cases : 4485
+********************
+ State :Goa
+ Confirmed cases : 29
+ Death cases : 0
+ Active cases : 22
+ Recovered cases : 7
+********************
+ State :Gujarat
+ Confirmed cases : 11379
+ Death cases : 659
+ Active cases : 6221
+ Recovered cases : 4499
+********************
+ State :Haryana
+ Confirmed cases : 910
+ Death cases : 14
+ Active cases : 334
+ Recovered cases : 562
+***********		indian_states

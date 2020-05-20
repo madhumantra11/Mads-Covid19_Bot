@@ -1,0 +1,26 @@
+2020-05-19/04:04:50		Current Cases		***Covid Report for selected country*** 
+
+ New cases :+6
+ Active cases : 85
+ Critical cases : 10
+ Recovered cases : 78241
+ Total cases : 82960
+ New Deaths : None
+ Total Deaths : 4634
+ Total Test Done : None
+
+*******END********* 
+ 		country_selection
+2020-05-19/04:06:47		Current Cases		***Covid Report for selected country*** 
+
+ New cases :+6
+ Active cases : 85
+ Critical cases : 10
+ Recovered cases : 78241
+ Total cases : 82960
+ New Deaths : None
+ Total Deaths : 4634
+ Total Test Done : None
+
+*******END********* 
+ 		country_selection

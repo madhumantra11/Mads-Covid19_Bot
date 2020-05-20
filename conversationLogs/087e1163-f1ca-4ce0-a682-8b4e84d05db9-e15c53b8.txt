@@ -1,0 +1,13 @@
+2020-05-17/07:30:03		India		***Covid Report*** 
+
+ New cases :+666
+ Active cases : 53836
+ Critical cases : 0
+ Recovered cases : 34581
+ Total cases : 91314
+ New Deaths : +26
+ Total Deaths : 2897
+ Total Test Done : 2227642
+
+*******END********* 
+ 		country_selection

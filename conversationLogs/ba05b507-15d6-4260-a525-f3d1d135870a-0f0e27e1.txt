@@ -1,0 +1,4 @@
+2020-05-20/03:56:35		Sure send email		Detailed Reports have been sent on your email address.Please chose from below 1. Main Menu 2. Exit		Send_Email
+2020-05-20/03:56:39		Sure send email		We have sent the Covid19 related information on your email address.Thanks for getting in touch with us.		Send_Email
+2020-05-20/03:56:46		Sure send email		Detailed Reports have been sent on your email address.Please chose from below 1. Main Menu 2. Exit		Send_Email
+2020-05-20/03:56:50		Sure send email		We have sent the Covid19 related information on your email address.Thanks for getting in touch with us.		Send_Email

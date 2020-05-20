@@ -1,0 +1,10 @@
+2020-05-17/08:41:40		Worldwide Cases		***Worldwide Cases Report*** 
+
+ Recovered :1693197
+ Deaths : 311781
+ Confirmed cases : 4634068
+Last Checked :2020-05-17T13:05:24+00:00
+Last Reported :2020-05-17T02:32:32+00:00
+
+*******END********* 
+ 		worldwide_data
