@@ -111,7 +111,7 @@ def processRequest(req):
         template = templatereader.TemplateReader()
         email_message = template.read_course_template()
         email_sender.sendEmail( cust_email, email_message )
-        fulfillmentText = "We have sent the Covid19 related information on your email address.Thanks for getting in touch with us."
+        fulfillmentText = "We have sent the Covid19 related information on your email address.Please chose from the below \n 1. Main Menu \n 2. Exit"
         log.write_log(sessionID, "Sure send email", fulfillmentText, intent)
         return {
                  "fulfillmentText" : fulfillmentText
