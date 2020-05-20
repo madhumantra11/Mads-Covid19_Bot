@@ -254,10 +254,10 @@ def processRequest(req):
                 }
             ]
         }
-    else:
-        return {
-            "fulfillmentText" : "Something went wrong, Let's start from beginning. Say Hi",
-        }
+    ##else:
+        ##return {
+            ##"fulfillmentText" : "Something went wrong, Let's start from beginning. Say Hi",
+       ## }
 
 if __name__ == '__main__':
  port = int(os.getenv('PORT',5000))
