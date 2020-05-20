@@ -2,7 +2,6 @@ import json
 import os
 from flask import Flask, request, make_response
 from flask_cors import cross_origin
-from bs4 import BeautifulSoup
 from logger import logger
 from DataRequests import MakeApiRequests
 from SendEmail import sendEmail
