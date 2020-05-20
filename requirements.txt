@@ -1,3 +1,4 @@
+requests
 APScheduler==3.6.3
 certifi==2020.4.5.1
 Click==7.1.2
