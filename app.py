@@ -123,25 +123,26 @@ def processRequest(req):
                           "\n" + "Last Checked :" + str(fulfillmentText.__getitem__('lastChecked') ) + "\n" + "Last Reported :" + str( fulfillmentText.__getitem__( 'lastReported' ) ) + \
                           "\n\n*******END********* \n "
         print(webhookresponse)
+        fulfillmentText = webhookresponse
         log.write_log(sessionID, "Worldwide Cases", webhookresponse, intent)
         return {
-
-            "fulfillmentText":[
-                {
-                    "text":{
-                        "text":[
-                            webhookresponse
-                            ]
-        }
-        },
-        {
-            "text":{
-                "text":[
-                    "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
-                    ]
-            }
-        }
-        ]
+                "fulfillmentText" : fulfillmentText
+        #     "fulfillmentText":[
+        #         {
+        #             "text":{
+        #                 "text":[
+        #                     webhookresponse
+        #                     ]
+        # }
+        # },
+        # {
+        #     "text":{
+        #         "text":[
+        #             "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+        #             ]
+        #     }
+        # }
+        # ]
         }
     elif intent == "COVID_Headlines":
         fulfillmentText = makeApiRequest("headlines")
