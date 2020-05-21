@@ -72,31 +72,33 @@ def processRequest(req):
             testsdone_data.get( 'total' ) ) + "\n\n*******END********* \n "
         print( "Country Name :", cust_country )
         print( webhookresponse )
+        fulfillmentText = cust_country + "\n" +  webhookresponse + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
         log.write_log(sessionID, "Current Cases", webhookresponse, intent)
         return {
-            "fulfillmentTextMessages" : [
-                 {
-                     "text":{
-                         "text":[
-                             cust_country
-                             ]
-                 }
-             },
-         {
-                     "text":{
-                         "text":[
-                             webhookresponse
-                             ]
-             }
-           },
-         {
-             "text":{
-                 "text":[
-                     "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
-                     ]
-               }
-            }
-          ]
+            "fulfillmentText" : fulfillmentText
+         #    "fulfillmentTextMessages" : [
+         #         {
+         #             "text":{
+         #                 "text":[
+         #                     cust_country
+         #                     ]
+         #         }
+         #     },
+         # {
+         #             "text":{
+         #                 "text":[
+         #                     webhookresponse
+         #                     ]
+         #     }
+         #   },
+         # {
+         #     "text":{
+         #         "text":[
+         #             "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+         #             ]
+         #       }
+         #    }
+         #  ]
         }
     elif intent == "Welcome" or intent == "continue_conversation" or intent == "not_send_email" or intent == "endConversation" \
                     or intent == "Fallback" or intent == "FAQ" :
@@ -141,7 +143,8 @@ def processRequest(req):
         #             ]
         #     }
         # }
-        # ]
+        #
+            # ]
         }
     elif intent == "COVID_Headlines":
         fulfillmentText = makeApiRequest("headlines")
@@ -175,7 +178,6 @@ def processRequest(req):
     elif intent == "indian_states":
         fulfillmentText = makeApiRequest( "state" )
         print( len( fulfillmentText ) )
-
         webhookresponse1 = ''
         webhookresponse2 = ''
         webhookresponse3 = ''
@@ -202,7 +204,7 @@ def processRequest(req):
         print( "***Statewise Cases*** \n\n" + webhookresponse3 + "\n\n*******END********* \n" )
         log.write_log( sessionID, "Indian State Cases", webhookresponse1, intent)
         return {
-         "fulfillmentText":[
+         "fulfillmentText": [
                 {
                     "text":{
                         "text":[
