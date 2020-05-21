@@ -145,15 +145,14 @@ def processRequest(req):
         }
     elif intent == "COVID_Headlines":
         fulfillmentText = makeApiRequest("headlines")
-        webhookresponse = "***COVID Headlines*** \n\n" + str(fulfillmentText) +\
+        webhookresponse = "***COVID Headlines*** \n\n" +  str(fulfillmentText[0:-1]) +\
                           "\n\n*******END*******\n"
         ##for webhookresponse in fulfillmentText:
             ##print("**", webhookresponse)
 
         log.write_log( sessionID, "COVID Headlines", webhookresponse, intent )
         return {
-            "fulfillmentText": "webhookresponse",
-                   "fulfillmentTextMessages" : [
+                 "fulfillmentTextMessages" : [
                    {
                     "text": {
                         "text": [
