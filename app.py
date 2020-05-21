@@ -152,8 +152,9 @@ def processRequest(req):
 
         log.write_log( sessionID, "COVID Headlines", webhookresponse, intent )
         return {
-            "fulfillmentText": [
-                {
+            "fulfillmentText": "webhookresponse",
+                   "fulfillmentTextMessages" : [
+                   {
                     "text": {
                         "text": [
                             webhookresponse
@@ -167,7 +168,7 @@ def processRequest(req):
                         ]
                     }
                 }
-            ]
+        ]
         }
     elif intent == "indian_states":
         fulfillmentText = makeApiRequest( "state" )
