@@ -235,11 +235,6 @@ def processRequest(req):
         }
         ]
         }
-    else:
-        return {
-            "fulfillmentText" : "Something went wrong, Let's start from beginning. Say Hi",
-        }
-
     '''elif intent == "helpline_numbers":
         fulfillmentText = makeApiRequest( "helpline_numbers" )
         for webhookresponse in fulfillmentText:
