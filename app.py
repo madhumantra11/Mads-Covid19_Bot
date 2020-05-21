@@ -32,8 +32,8 @@ def makeApiRequest(query):
         return api.makeApiRequestsgetCovidHeadlines()
     if query =="state":
         return api.makeApiRequestsforIndianStates()
-    if query == "helpline_numbers":
-        return api.makeApiRequestsgetHelplinenumbers()
+    ##if query == "helpline_numbers":
+        ##return api.makeApiRequestsgetHelplinenumbers()
     else:
         return api.makeApiRequestforCounrty(query)
 
@@ -68,36 +68,32 @@ def processRequest(req):
             testsdone_data.get( 'total' ) ) + "\n\n*******END********* \n "
         print( "Country Name :", cust_country )
         print( webhookresponse )
-        ##email_sender = EmailSender()
-        ##template = templatereader.TemplateReader()
-        ##email_message = cust_country + webhookresponse + template.read_course_template()
-        ##email_sender.sendEmail( cust_email, email_message )
-        ##fulfillmentText = "We have sent the Covid19 related information on your email address.Thanks for getting in touch with us."
+        fulfillmentText = cust+country + "/n" + webhookresponse  + "/n/n"
         log.write_log(sessionID, "Current Cases", webhookresponse, intent)
         return {
-            "fulfillmentText":[
-                {
-                    "text":{
-                        "text":[
-                            cust_country
-                            ]
-        }
-        },
-        {
-                    "text":{
-                        "text":[
-                            webhookresponse
-                            ]
-        }
-        },
-        {
-            "text":{
-                "text":[
-                    "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
-                    ]
-            }
-        }
-        ]
+            "fulfillmentText":fulfillmentText
+        #         {
+        #             "text":{
+        #                 "text":[
+        #                     cust_country
+        #                     ]
+        # }
+        # },
+        # {
+        #             "text":{
+        #                 "text":[
+        #                     webhookresponse
+        #                     ]
+        # }
+        # },
+        # {
+        #     "text":{
+        #         "text":[
+        #             "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+        #             ]
+        #     }
+        # }
+        # ]
         }
     elif intent == "Welcome" or intent == "continue_conversation" or intent == "not_send_email" or intent == "endConversation" \
                     or intent == "Fallback" or intent == "FAQ" :
@@ -232,7 +228,7 @@ def processRequest(req):
         }
         ]
         }
-    elif intent == "helpline_numbers":
+    '''elif intent == "helpline_numbers":
         fulfillmentText = makeApiRequest( "helpline_numbers" )
         for webhookresponse in fulfillmentText:
             print( webhookresponse )
@@ -254,7 +250,7 @@ def processRequest(req):
                     }
                 }
             ]
-        }
+        }'''
     ##else:
         ##return {
             ##"fulfillmentText" : "Something went wrong, Let's start from beginning. Say Hi",
