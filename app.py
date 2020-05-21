@@ -259,13 +259,13 @@ def processRequest(req):
             ##"fulfillmentText" : "Something went wrong, Let's start from beginning. Say Hi",
        ## }
 
-'''if __name__ == '__main__':
+if __name__ == '__main__':
  port = int(os.getenv('PORT',5000))
  print("Starting app on port %d" % port)
- app.run(debug=False, port=port, host='0.0.0.0')'''
+ app.run(debug=False, port=port, host='0.0.0.0')
 
-if __name__ == "__main__":
-    app.run(port=5000, debug=True)# running the app on the local machine on port 5000
+##if __name__ == "__main__":
+    ##app.run(port=5000, debug=True)# running the app on the local machine on port 5000
 
 
 
