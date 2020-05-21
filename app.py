@@ -55,6 +55,10 @@ def processRequest(req):
 
     if (intent=='country_selection'):
         cust_country = parameters.get("cust-country")
+        if (cust_country == "United States"):
+            cust_country = "USA"
+        if (cust_country == "United Arab Emirates"):
+            cust_country = "UAE"
         fulfillmentText, deaths_data, testsdone_data = makeApiRequest( cust_country )
         webhookresponse = "***Covid Report*** \n\n" +\
                            " New cases :" + str( fulfillmentText.get( 'new' ) ) + \
@@ -68,32 +72,31 @@ def processRequest(req):
             testsdone_data.get( 'total' ) ) + "\n\n*******END********* \n "
         print( "Country Name :", cust_country )
         print( webhookresponse )
-        fulfillmentText = cust+country + "/n" + webhookresponse  + "/n/n"
         log.write_log(sessionID, "Current Cases", webhookresponse, intent)
         return {
-            "fulfillmentText":fulfillmentText
-        #         {
-        #             "text":{
-        #                 "text":[
-        #                     cust_country
-        #                     ]
-        # }
-        # },
-        # {
-        #             "text":{
-        #                 "text":[
-        #                     webhookresponse
-        #                     ]
-        # }
-        # },
-        # {
-        #     "text":{
-        #         "text":[
-        #             "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
-        #             ]
-        #     }
-        # }
-        # ]
+            "fulfillmentTextMessages" : [
+                 {
+                     "text":{
+                         "text":[
+                             cust_country
+                             ]
+                 }
+             },
+         {
+                     "text":{
+                         "text":[
+                             webhookresponse
+                             ]
+             }
+           },
+         {
+             "text":{
+                 "text":[
+                     "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+                     ]
+               }
+            }
+          ]
         }
     elif intent == "Welcome" or intent == "continue_conversation" or intent == "not_send_email" or intent == "endConversation" \
                     or intent == "Fallback" or intent == "FAQ" :
@@ -256,13 +259,13 @@ def processRequest(req):
             ##"fulfillmentText" : "Something went wrong, Let's start from beginning. Say Hi",
        ## }
 
-if __name__ == '__main__':
+'''if __name__ == '__main__':
  port = int(os.getenv('PORT',5000))
  print("Starting app on port %d" % port)
- app.run(debug=False, port=port, host='0.0.0.0')
+ app.run(debug=False, port=port, host='0.0.0.0')'''
 
-##if __name__ == "__main__":
-    ##app.run(port=5000, debug=True)# running the app on the local machine on port 5000
+if __name__ == "__main__":
+    app.run(port=5000, debug=True)# running the app on the local machine on port 5000
 
 
 
