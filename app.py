@@ -59,6 +59,8 @@ def processRequest(req):
             cust_country = "USA"
         if (cust_country == "United Arab Emirates"):
             cust_country = "UAE"
+        if (cust_country == "United Kingdom"):
+            cust_country = "UK"
         fulfillmentText, deaths_data, testsdone_data = makeApiRequest( cust_country )
         webhookresponse = "***Covid Report*** \n\n" +\
                            " New cases :" + str( fulfillmentText.get( 'new' ) ) + \
@@ -108,6 +110,11 @@ def processRequest(req):
     elif intent == "Send_Email":
         fulfillmentText = result.get( "fulfillmentText" )
         log.write_log( sessionID, "Sure send email", fulfillmentText, intent)
+        while True:
+            if not cust_name.isalpha():
+                print("Please Enter valid name")
+            else:
+                break
         email_sender = EmailSender()
         template = templatereader.TemplateReader()
         email_message = template.read_course_template()
