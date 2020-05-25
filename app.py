@@ -179,7 +179,7 @@ def processRequest(req):
     #fulfillmentText = webhookresponse1 + "\n" + webhookresponse2 + "\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
     log.write_log( sessionID, "Indian State Cases", webhookresponse1, intent )
     return {
-        "fulfillmentText": webhookresponse1 + "\n"+ webhookresponse2 +"\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+        "fulfillmentText": "***Statewise Cases*** \n\n" + webhookresponse1 + "\n"+ webhookresponse2 +"\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
     }
 
 if __name__ == '__main__':
