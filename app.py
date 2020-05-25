@@ -157,20 +157,20 @@ def processRequest(req):
     webhookresponse3 = ''
     for i in range( 0, 11 ):
         webhookresponse = fulfillmentText[ i ]
-        webhookresponse1 += "*********\n" + " State :" + str( webhookresponse[ 'name' ] ) + \
-                            "\n" + " Confirmed cases : " + str(webhookresponse[ 'cases' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
+        webhookresponse1 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
+                            "\n" + " Confirmed cases : " + str(webhookresponse[ 'confirmed' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
              "\n"+ "Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
              "\n***********"
     for i in range( 11, 21 ):
         webhookresponse = fulfillmentText[ i ]
-        webhookresponse2 += "*********\n" + " State :" + str( webhookresponse[ 'name' ] ) + \
-                            "\n" + " Confirmed cases : " + str(webhookresponse[ 'cases' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
+        webhookresponse2 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
+                            "\n" + " Confirmed cases : " + str(webhookresponse[ 'confirmed' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
              "\n"+ "Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
              "\n***********"
     for i in range( 21, 38 ):
         webhookresponse = fulfillmentText[ i ]
-        webhookresponse3 += "*********\n" + " State :" + str( webhookresponse[ 'name' ] ) + \
-                            "\n" + " Confirmed cases : " + str(webhookresponse[ 'cases' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
+        webhookresponse3 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
+                            "\n" + " Confirmed cases : " + str(webhookresponse[ 'confirmed' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
              "\n"+ "Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
              "\n***********"
     print( "***Statewise Cases*** \n\n" + webhookresponse1 + "\n\n" )
