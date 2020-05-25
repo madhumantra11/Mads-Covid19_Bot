@@ -149,133 +149,44 @@ def processRequest(req):
         return {
                 "fulfillmentText" : fulfillmentText
                 }
-    # elif intent == "indian_states":
-    #     fulfillmentText = makeApiRequest( "state" )
-    # print( len( fulfillmentText ) )
-    # webhookresponse1 = ''
-    # webhookresponse2 = ''
-    # webhookresponse3 = ''
-    # for i in range( 0, 11 ):
-    #     webhookresponse = fulfillmentText[ i ]
-    #     webhookresponse1 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
-    #                         "\n" + " Confirmed cases : " + str(
-    #         webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
-    #                         "\n" + " Active cases : " + str(
-    #         webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
-    #                         "\n***********"
-    # for i in range( 11, 21 ):
-    #     webhookresponse = fulfillmentText[ i ]
-    #     webhookresponse2 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
-    #                         "\n" + " Confirmed cases : " + str(
-    #         webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
-    #                         "\n" + " Active cases : " + str(
-    #         webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
-    #                         "\n***********"
-    # for i in range( 21, 38 ):
-    #     webhookresponse = fulfillmentText[ i ]
-    #     webhookresponse3 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
-    #                         "\n" + " Confirmed cases : " + str(
-    #         webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
-    #                         "\n" + " Active cases : " + str(
-    #         webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
-    #                         "\n**************"
-    # print( "***Statewise Cases*** \n\n" + webhookresponse1 + "\n\n" )
-    # print( "***Statewise Cases*** \n\n" + webhookresponse2 + "\n\n" )
-    # print( "***Statewise Cases*** \n\n" + webhookresponse3 + "\n\n*******END********* \n" )
-    # #fulfillmentText = webhookresponse1 + "\n" + webhookresponse2 + "\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
-    # log.write_log( sessionID, "Indian State Cases", webhookresponse1, intent )
-    # return {
-    #     "fulfillmentText": webhookresponse1 + "\n"+ webhookresponse2 +"\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
-    # }
-
     elif intent == "indian_states":
-
-        fulfillmentText = makeAPIRequest( "state" )
-        print( len( fulfillmentText ) )
-
-        webhookresponse1 = ''
-        webhookresponse2 = ''
-        webhookresponse3 = ''
-        for i in range( 0, 11 ):
-            webhookresponse = fulfillmentText[ i ]
-            # print(webhookresponse['state'])
-            # js = json.loads(webhookresponse.text)
-
-            # print(str(js.state))
-            webhookresponse1 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
-                                "\n" + " Confirmed cases : " + str(
-                webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
-                                "\n" + " Active cases : " + str(
-                webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str(
-                webhookresponse[ 'recovered' ] ) + "\n*********"
-        for i in range( 11, 21 ):
-            webhookresponse = fulfillmentText[ i ]
-            # print(webhookresponse['state'])
-            # js = json.loads(webhookresponse.text)
-
-            # print(str(js.state))
-            webhookresponse2 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
-                                "\n" + " Confirmed cases : " + str(
-                webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
-                                "\n" + " Active cases : " + str(
-                webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str(
-                webhookresponse[ 'recovered' ] ) + "\n*********"
-        for i in range( 21, 38 ):
-            webhookresponse = fulfillmentText[ i ]
-            # print(webhookresponse['state'])
-            # js = json.loads(webhookresponse.text)
-
-            # print(str(js.state))
-            webhookresponse3 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
-                                "\n" + " Confirmed cases : " + str(
-                webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
-                                "\n" + " Active cases : " + str(
-                webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str(
-                webhookresponse[ 'recovered' ] ) + "\n*********"
-        print( "***World wide Report*** \n\n" + webhookresponse1 + "\n\n*******END********* \n" )
-        print( "***World wide Report*** \n\n" + webhookresponse2 + "\n\n*******END********* \n" )
-        print( "***World wide Report*** \n\n" + webhookresponse3 + "\n\n*******END********* \n" )
-
-        log.write_log( sessionID, "Indian State Cases", webhookresponse1, intent )
-        return {
-
-            "fulfillmentMessages": [
-                {
-                    "text": {
-                        "text": [
-                            webhookresponse1
-                        ]
-
-                    }
-                },
-                {
-                    "text": {
-                        "text": [
-                            webhookresponse2
-                        ]
-
-                    }
-                },
-                {
-                    "text": {
-                        "text": [
-                            webhookresponse3
-                        ]
-
-                    }
-                },
-                {
-                    "text": {
-                        "text": [
-                            "Do you want me to send the detailed report to your e-mail address? Type.. \n 1. Sure \n 2. Not now "
-                            # "We have sent the detailed report of {} Covid-19 to your given mail address.Do you have any other Query?".format(cust_country)
-                        ]
-
-                    }
-                }
-            ]
-        }
-
+        fulfillmentText = makeApiRequest( "state" )
+    print( len( fulfillmentText ) )
+    webhookresponse1 = ''
+    webhookresponse2 = ''
+    webhookresponse3 = ''
+    for i in range( 0, 11 ):
+        webhookresponse = fulfillmentText[ i ]
+        webhookresponse1 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
+                            "\n" + " Confirmed cases : " + str(
+            webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
+                            "\n" + " Active cases : " + str(
+            webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
+                            "\n***********"
+    for i in range( 11, 21 ):
+        webhookresponse = fulfillmentText[ i ]
+        webhookresponse2 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
+                            "\n" + " Confirmed cases : " + str(
+            webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
+                            "\n" + " Active cases : " + str(
+            webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
+                            "\n***********"
+    for i in range( 21, 38 ):
+        webhookresponse = fulfillmentText[ i ]
+        webhookresponse3 += "*********\n" + " State :" + str( webhookresponse[ 'state' ] ) + \
+                            "\n" + " Confirmed cases : " + str(
+            webhookresponse[ 'confirmed' ] ) + "\n" + " Death cases : " + str( webhookresponse[ 'deaths' ] ) + \
+                            "\n" + " Active cases : " + str(
+            webhookresponse[ 'active' ] ) + "\n" + " Recovered cases : " + str( webhookresponse[ 'recovered' ] ) + \
+                            "\n**************"
+    print( "***Statewise Cases*** \n\n" + webhookresponse1 + "\n\n" )
+    print( "***Statewise Cases*** \n\n" + webhookresponse2 + "\n\n" )
+    print( "***Statewise Cases*** \n\n" + webhookresponse3 + "\n\n*******END********* \n" )
+    #fulfillmentText = webhookresponse1 + "\n" + webhookresponse2 + "\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+    log.write_log( sessionID, "Indian State Cases", webhookresponse1, intent )
+    return {
+        "fulfillmentText": webhookresponse1 + "\n"+ webhookresponse2 +"\n" + webhookresponse3 + "\n\n" + "Do you want me to share COVID-19 related information on your email id? Please chose from the below \n 1. Sure! \n 2. No. Thanks!"
+    }
 
 if __name__ == '__main__':
  port = int(os.getenv('PORT',5000))
